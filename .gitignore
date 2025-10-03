@@ -1,0 +1,9 @@
+bin/
+obj/
+*.db
+*.sqlite
+.vscode/
+.env
+*.user
+*.suo
+docker-compose.override.yml
